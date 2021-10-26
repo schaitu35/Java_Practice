@@ -1,0 +1,13 @@
+Binary Search - Array must be sorted either ascending or descending way
+
+arr = [1,20,30,44,57,68,72,89] -> ascending
+ target =20;
+
+* Find the middle element
+       0  1  2  3  4  5  6  7
+arr = [1,20,30,44,57,68,72,89]
+
+Middle = (low + high)/2 = 0+7/2 = 3.5
+Middle Element = 3 => 44
+
+Check is the middle element is ta
